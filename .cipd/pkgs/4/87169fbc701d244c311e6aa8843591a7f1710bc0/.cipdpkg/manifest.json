@@ -1,0 +1,226 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_build_tools/art",
+  "files": [
+    {
+      "name": "dexlayout",
+      "size": 929224,
+      "executable": true
+    },
+    {
+      "name": "lib/libart-compiler.so",
+      "size": 106902120,
+      "executable": true
+    },
+    {
+      "name": "lib/libart-dexlayout.so",
+      "size": 10011728,
+      "executable": true
+    },
+    {
+      "name": "lib/libart-disassembler.so",
+      "size": 900728,
+      "executable": true
+    },
+    {
+      "name": "lib/libart-gtest.so",
+      "size": 8799904,
+      "executable": true
+    },
+    {
+      "name": "lib/libart.so",
+      "size": 187567928,
+      "executable": true
+    },
+    {
+      "name": "lib/libartbase.so",
+      "size": 1728968,
+      "executable": true
+    },
+    {
+      "name": "lib/libartd-compiler.so",
+      "size": 113341400,
+      "executable": true
+    },
+    {
+      "name": "lib/libartd-dexlayout.so",
+      "size": 10454144,
+      "executable": true
+    },
+    {
+      "name": "lib/libartd-disassembler.so",
+      "size": 904632,
+      "executable": true
+    },
+    {
+      "name": "lib/libartd-simulator-container.so",
+      "size": 66152,
+      "executable": true
+    },
+    {
+      "name": "lib/libartd-simulator.so",
+      "size": 165496,
+      "executable": true
+    },
+    {
+      "name": "lib/libbacktrace.so",
+      "size": 1401096,
+      "executable": true
+    },
+    {
+      "name": "lib/libbase.so",
+      "size": 920960,
+      "executable": true
+    },
+    {
+      "name": "lib/libc++.so",
+      "size": 6229336,
+      "executable": true
+    },
+    {
+      "name": "lib/libcrypto-host.so",
+      "size": 5648864,
+      "executable": true
+    },
+    {
+      "name": "lib/libcutils.so",
+      "size": 177624,
+      "executable": true
+    },
+    {
+      "name": "lib/libdexfile.so",
+      "size": 2511464,
+      "executable": true
+    },
+    {
+      "name": "lib/libexpat-host.so",
+      "size": 495968,
+      "executable": true
+    },
+    {
+      "name": "lib/libicui18n-host.so",
+      "size": 14620496,
+      "executable": true
+    },
+    {
+      "name": "lib/libicuuc-host.so",
+      "size": 8275352,
+      "executable": true
+    },
+    {
+      "name": "lib/libjavacore.so",
+      "size": 2463600,
+      "executable": true
+    },
+    {
+      "name": "lib/libjavacrypto.so",
+      "size": 1364096,
+      "executable": true
+    },
+    {
+      "name": "lib/liblog.so",
+      "size": 770568,
+      "executable": true
+    },
+    {
+      "name": "lib/liblz4.so",
+      "size": 529392,
+      "executable": true
+    },
+    {
+      "name": "lib/liblzma.so",
+      "size": 660112,
+      "executable": true
+    },
+    {
+      "name": "lib/libnativebridge.so",
+      "size": 90184,
+      "executable": true
+    },
+    {
+      "name": "lib/libnativehelper.so",
+      "size": 246008,
+      "executable": true
+    },
+    {
+      "name": "lib/libnativeloader.so",
+      "size": 114384,
+      "executable": true
+    },
+    {
+      "name": "lib/libopenjdk.so",
+      "size": 1483760,
+      "executable": true
+    },
+    {
+      "name": "lib/libopenjdkjvm.so",
+      "size": 1737984,
+      "executable": true
+    },
+    {
+      "name": "lib/libopenjdkjvmti.so",
+      "size": 27164888,
+      "executable": true
+    },
+    {
+      "name": "lib/libprofile.so",
+      "size": 2476544,
+      "executable": true
+    },
+    {
+      "name": "lib/libsigchain.so",
+      "size": 19792,
+      "executable": true
+    },
+    {
+      "name": "lib/libssl-host.so",
+      "size": 3202504,
+      "executable": true
+    },
+    {
+      "name": "lib/libunwindstack.so",
+      "size": 7190704,
+      "executable": true
+    },
+    {
+      "name": "lib/libvixl-arm.so",
+      "size": 8741528,
+      "executable": true
+    },
+    {
+      "name": "lib/libvixl-arm64.so",
+      "size": 5963784,
+      "executable": true
+    },
+    {
+      "name": "lib/libvixld-arm.so",
+      "size": 8753496,
+      "executable": true
+    },
+    {
+      "name": "lib/libvixld-arm64.so",
+      "size": 5818608,
+      "executable": true
+    },
+    {
+      "name": "lib/libz-host.so",
+      "size": 289080,
+      "executable": true
+    },
+    {
+      "name": "lib/libziparchive.so",
+      "size": 425424,
+      "executable": true
+    },
+    {
+      "name": "lib/slicer.so",
+      "size": 9853456,
+      "executable": true
+    },
+    {
+      "name": "profman",
+      "size": 2692528,
+      "executable": true
+    }
+  ]
+}

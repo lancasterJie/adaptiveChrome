@@ -1,0 +1,3205 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_sdk/public/platform-tools",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "platform-tools/NOTICE.txt",
+      "size": 887033
+    },
+    {
+      "name": "platform-tools/adb",
+      "size": 2724688,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/api/annotations.zip",
+      "size": 79596
+    },
+    {
+      "name": "platform-tools/api/api-versions.xml",
+      "size": 4074511
+    },
+    {
+      "name": "platform-tools/deployagent",
+      "size": 211,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/deployagent.jar",
+      "size": 895844
+    },
+    {
+      "name": "platform-tools/deploypatchgenerator.jar",
+      "size": 3911002
+    },
+    {
+      "name": "platform-tools/dmtracedump",
+      "size": 66736,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/e2fsdroid",
+      "size": 1523640,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/etc1tool",
+      "size": 313608,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/fastboot",
+      "size": 1926832,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/hprof-conv",
+      "size": 21760,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/lib64/libc++.so",
+      "size": 1088392,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/make_f2fs",
+      "size": 183512,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/mke2fs",
+      "size": 805168,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/mke2fs.conf",
+      "size": 1170,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/package.xml",
+      "size": 17783
+    },
+    {
+      "name": "platform-tools/sload_f2fs",
+      "size": 1436992,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/source.properties",
+      "size": 38
+    },
+    {
+      "name": "platform-tools/sqlite3",
+      "size": 1408864,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/NOTICE",
+      "size": 11738
+    },
+    {
+      "name": "platform-tools/systrace/UPSTREAM_REVISION",
+      "size": 41
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/bin/run_tests",
+      "size": 928,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/bin/update_chrome_reference_binaries",
+      "size": 7951,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/LICENSE",
+      "size": 1102
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/README.md",
+      "size": 227
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/bin/run_eslint",
+      "size": 1711,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/bin/run_tests",
+      "size": 831,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/eslint/__init__.py",
+      "size": 1859
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/eslint/smoke_test.py",
+      "size": 995
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/rules/catapult-camelcase.js",
+      "size": 5610
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/tests/catapult-camelcase.js",
+      "size": 10615
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/lab/commits.py",
+      "size": 2712,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/lab/hardware.py",
+      "size": 2477,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/lab/keychain_unlock.sh",
+      "size": 612,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/node_runner/node_runner/__init__.py",
+      "size": 163
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/node_runner/node_runner/minify",
+      "size": 1937,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/node_runner/node_runner/node_binaries.json",
+      "size": 2062
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/node_runner/node_runner/node_util.py",
+      "size": 1768
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/node_runner/node_runner/package.json",
+      "size": 707
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/README.txt",
+      "size": 329
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/__init__.py",
+      "size": 343
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/run_tests",
+      "size": 4854,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/setup.py",
+      "size": 381
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event.py",
+      "size": 8745
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/__init__.py",
+      "size": 258
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/decorators.py",
+      "size": 2669
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/decorators_test.py",
+      "size": 1758
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/log.py",
+      "size": 4844
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/log_io_test.py",
+      "size": 1356
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/meta_class.py",
+      "size": 538
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/multiprocessing_shim.py",
+      "size": 2108
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/parsed_trace_events.py",
+      "size": 2945
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/trace_test.py",
+      "size": 1187
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_unittest.py",
+      "size": 16471
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_time.py",
+      "size": 7295
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_time_unittest.py",
+      "size": 4210
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/PRESUBMIT.py",
+      "size": 1048
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/__init__.py",
+      "size": 4930
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/atexit_with_log.py",
+      "size": 642
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/binary_manager.py",
+      "size": 2358
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/binary_manager_unittest.py",
+      "size": 8637
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/camel_case.py",
+      "size": 869
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/camel_case_unittest.py",
+      "size": 1701
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/chrome_binaries.json",
+      "size": 3917
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/class_util.py",
+      "size": 993
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/class_util_unittest.py",
+      "size": 3304
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/cloud_storage.py",
+      "size": 18186
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/cloud_storage_global_lock.py",
+      "size": 243
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/cloud_storage_unittest.py",
+      "size": 15468
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/contextlib_ext.py",
+      "size": 930
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/contextlib_ext_unittest.py",
+      "size": 847
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/dependency_util.py",
+      "size": 1346
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/discover.py",
+      "size": 6747
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/discover_unittest.py",
+      "size": 5666
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/expectations_parser.py",
+      "size": 3849
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/expectations_parser_unittest.py",
+      "size": 6377
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/file_util.py",
+      "size": 661
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/file_util_unittest.py",
+      "size": 2058
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/lock.py",
+      "size": 3565
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/lock_unittest.py",
+      "size": 5590
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/logging_util.py",
+      "size": 962
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/logging_util_unittest.py",
+      "size": 600
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/memory_debug.py",
+      "size": 2900,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/py_utils_unittest.py",
+      "size": 1635
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/__init__.py",
+      "size": 805
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/annotated_symbol/__init__.py",
+      "size": 1890
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/annotated_symbol/base_symbol.py",
+      "size": 1073
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/annotated_symbol/class_definition.py",
+      "size": 1252
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/annotated_symbol/function_definition.py",
+      "size": 1256
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/annotated_symbol/import_statement.py",
+      "size": 8497
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/annotated_symbol/reference.py",
+      "size": 2095
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/module.py",
+      "size": 1000
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/offset_token.py",
+      "size": 3173
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/snippet.py",
+      "size": 6717
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor_util/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor_util/move.py",
+      "size": 3498
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/retry_util.py",
+      "size": 2221
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/retry_util_unittest.py",
+      "size": 3535
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/shell_util.py",
+      "size": 1139
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/slots_metaclass.py",
+      "size": 1152
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/slots_metaclass_unittest.py",
+      "size": 1311
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/tempfile_ext.py",
+      "size": 1014
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/tempfile_ext_unittest.py",
+      "size": 1197
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/test_data/discoverable_classes/__init__.py",
+      "size": 162
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/test_data/discoverable_classes/another_discover_dummyclass.py",
+      "size": 1139
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/test_data/discoverable_classes/discover_dummyclass.py",
+      "size": 334
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/test_data/discoverable_classes/parameter_discover_dummyclass.py",
+      "size": 503
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/test_data/foo.txt",
+      "size": 29
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/xvfb.py",
+      "size": 828
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/README.chromium",
+      "size": 247
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/bin/run_py_tests",
+      "size": 753,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/__init__.py",
+      "size": 373
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/fake_fs.py",
+      "size": 4220
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/fake_fs_unittest.py",
+      "size": 1493
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/generate.py",
+      "size": 8102
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/generate_unittest.py",
+      "size": 3431
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/html_generation_controller.py",
+      "size": 895
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/html_module.py",
+      "size": 5698
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/html_module_unittest.py",
+      "size": 10761
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/js_utils.py",
+      "size": 237
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/js_utils_unittest.py",
+      "size": 550
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/module.py",
+      "size": 8536
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/module_unittest.py",
+      "size": 4004
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/parse_html_deps.py",
+      "size": 7675
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/parse_html_deps_unittest.py",
+      "size": 10169,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/project.py",
+      "size": 6361
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/resource.py",
+      "size": 1701
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/resource_loader.py",
+      "size": 7961
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/resource_unittest.py",
+      "size": 501
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/strip_js_comments.py",
+      "size": 1962
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/strip_js_comments_unittest.py",
+      "size": 1888
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/style_sheet.py",
+      "size": 3933
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/py_vulcanize/style_sheet_unittest.py",
+      "size": 1953
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/LICENSE",
+      "size": 11357
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/MANIFEST",
+      "size": 10710
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/PKG-INFO",
+      "size": 16233
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/README.chromium",
+      "size": 470
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/README.rst",
+      "size": 4429
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/bench/LICENSE.cssmin",
+      "size": 3072
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/bench/__init__.py",
+      "size": 875
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/bench/cssmin.py",
+      "size": 7426
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/bench/main.py",
+      "size": 6780
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/bench/wikipedia.css",
+      "size": 82899
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/bench/wikipedia.min.css",
+      "size": 50540
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/bench/write.py",
+      "size": 10554
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/BENCHMARKS",
+      "size": 2454
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/CHANGES",
+      "size": 746
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/CLASSIFIERS",
+      "size": 759
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/DESCRIPTION",
+      "size": 2910
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/PROVIDES",
+      "size": 14
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/SUMMARY",
+      "size": 13
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/apidoc/api-objects.txt",
+      "size": 272
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/apidoc/crarr.png",
+      "size": 340
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/apidoc/epydoc.css",
+      "size": 16023
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/apidoc/epydoc.js",
+      "size": 10581
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/apidoc/help.html",
+      "size": 10520
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/apidoc/identifier-index.html",
+      "size": 5310
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/apidoc/index.html",
+      "size": 9875
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/apidoc/module-tree.html",
+      "size": 3269
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/apidoc/rcssmin-module.html",
+      "size": 9875
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/apidoc/rcssmin-pysrc.html",
+      "size": 76325
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/docs/apidoc/redirect.html",
+      "size": 999
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/package.cfg",
+      "size": 1668
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/rcssmin.c",
+      "size": 29744
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/rcssmin.py",
+      "size": 12958
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/run_tests.py",
+      "size": 5071,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/setup.py",
+      "size": 1183
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/atgroup_00.css",
+      "size": 39
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/atgroup_01.css",
+      "size": 528
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/atgroup_02.css",
+      "size": 621
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/atgroup_03.css",
+      "size": 283
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/atgroup_04.css",
+      "size": 461
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/atgroup_05.css",
+      "size": 888
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/atgroup_06.css",
+      "size": 888
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/atgroup_07.css",
+      "size": 894
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/atgroup_08.css",
+      "size": 897
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/atgroup_09.css",
+      "size": 899
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/atgroup_10.css",
+      "size": 902
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/atgroup_11.css",
+      "size": 898
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/comment_00.css",
+      "size": 63
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/comment_01.css",
+      "size": 181
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/comment_02.css",
+      "size": 4
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/comment_03.css",
+      "size": 8
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/comment_04.css",
+      "size": 10
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/escape_00.css",
+      "size": 4
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/escape_01.css",
+      "size": 3
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/escape_02.css",
+      "size": 4
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/escape_03.css",
+      "size": 6
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/escape_04.css",
+      "size": 10
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/escape_05.css",
+      "size": 11
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/escape_06.css",
+      "size": 6
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/first_00.css",
+      "size": 25
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/first_01.css",
+      "size": 27
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/first_02.css",
+      "size": 46
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_00.out",
+      "size": 29
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_00.out.b",
+      "size": 29
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_01.out",
+      "size": 147
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_01.out.b",
+      "size": 147
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_02.out",
+      "size": 181
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_02.out.b",
+      "size": 181
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_03.out",
+      "size": 168
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_03.out.b",
+      "size": 168
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_04.out",
+      "size": 308
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_04.out.b",
+      "size": 308
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_05.out",
+      "size": 436
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_05.out.b",
+      "size": 436
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_06.out",
+      "size": 436
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_06.out.b",
+      "size": 436
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_07.out",
+      "size": 442
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_07.out.b",
+      "size": 442
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_08.out",
+      "size": 445
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_08.out.b",
+      "size": 445
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_09.out",
+      "size": 447
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_09.out.b",
+      "size": 447
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_10.out",
+      "size": 450
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_10.out.b",
+      "size": 450
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_11.out",
+      "size": 446
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/atgroup_11.out.b",
+      "size": 446
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/comment_00.out",
+      "size": 16
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/comment_00.out.b",
+      "size": 26
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/comment_01.out",
+      "size": 129
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/comment_01.out.b",
+      "size": 129
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/comment_02.out",
+      "size": 3
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/comment_02.out.b",
+      "size": 3
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/comment_03.out",
+      "size": 3
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/comment_03.out.b",
+      "size": 3
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/comment_04.out",
+      "size": 3
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/comment_04.out.b",
+      "size": 3
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_00.out",
+      "size": 3
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_00.out.b",
+      "size": 3
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_01.out",
+      "size": 3
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_01.out.b",
+      "size": 3
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_02.out",
+      "size": 4
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_02.out.b",
+      "size": 4
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_03.out",
+      "size": 6
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_03.out.b",
+      "size": 6
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_04.out",
+      "size": 9
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_04.out.b",
+      "size": 9
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_05.out",
+      "size": 10
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_05.out.b",
+      "size": 10
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_06.out",
+      "size": 5
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/escape_06.out.b",
+      "size": 5
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/first_00.out",
+      "size": 23
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/first_00.out.b",
+      "size": 23
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/first_01.out",
+      "size": 25
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/first_01.out.b",
+      "size": 25
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/first_02.out",
+      "size": 47
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/first_02.out.b",
+      "size": 47
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_00.out",
+      "size": 14
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_00.out.b",
+      "size": 14
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_01.out",
+      "size": 12
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_01.out.b",
+      "size": 12
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_02.out",
+      "size": 11
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_02.out.b",
+      "size": 11
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_03.out",
+      "size": 13
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_03.out.b",
+      "size": 13
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_04.out",
+      "size": 13
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_04.out.b",
+      "size": 13
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_05.out",
+      "size": 15
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_05.out.b",
+      "size": 15
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_06.out",
+      "size": 21
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_06.out.b",
+      "size": 21
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_07.out",
+      "size": 12
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_07.out.b",
+      "size": 12
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_08.out",
+      "size": 13
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_08.out.b",
+      "size": 13
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_09.out",
+      "size": 22
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/out/url_09.out.b",
+      "size": 22
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/url_00.css",
+      "size": 17
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/url_01.css",
+      "size": 16
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/url_02.css",
+      "size": 17
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/url_03.css",
+      "size": 18
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/url_04.css",
+      "size": 19
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/url_05.css",
+      "size": 22
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/url_06.css",
+      "size": 32
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/url_07.css",
+      "size": 15
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/url_08.css",
+      "size": 16
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/main/url_09.css",
+      "size": 27
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/README",
+      "size": 2694
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/background-position.css",
+      "size": 63
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/background-position.css.min",
+      "size": 52
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/border-none.css",
+      "size": 65
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/border-none.css.min",
+      "size": 41
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/box-model-hack.css",
+      "size": 126
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/box-model-hack.css.min",
+      "size": 100
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/bug2527974.css",
+      "size": 393
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/bug2527974.css.min",
+      "size": 141
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/bug2527991.css",
+      "size": 249
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/bug2527991.css.min",
+      "size": 197
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/bug2527998.css",
+      "size": 25
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/bug2527998.css.min",
+      "size": 14
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/bug2528034.css",
+      "size": 86
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/bug2528034.css.min",
+      "size": 39
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/charset-media.css",
+      "size": 92
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/charset-media.css.min",
+      "size": 56
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/color-simple.css",
+      "size": 204
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/color-simple.css.min",
+      "size": 174
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/color.css",
+      "size": 866
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/color.css.min",
+      "size": 652
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/comment.css",
+      "size": 40
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/comment.css.min",
+      "size": 27
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/concat-charset.css",
+      "size": 357
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/concat-charset.css.min",
+      "size": 62
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-base64-doublequotes.css",
+      "size": 84725
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-base64-doublequotes.css.min",
+      "size": 84642
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-base64-eof.css",
+      "size": 3872
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-base64-eof.css.min",
+      "size": 3832
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-base64-linebreakindata.css",
+      "size": 2550
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-base64-linebreakindata.css.min",
+      "size": 1884
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-base64-noquotes.css",
+      "size": 84743
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-base64-noquotes.css.min",
+      "size": 84636
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-base64-singlequotes.css",
+      "size": 84720
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-base64-singlequotes.css.min",
+      "size": 84642
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-base64-twourls.css",
+      "size": 4315
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-base64-twourls.css.min",
+      "size": 4227
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-dbquote-font.css",
+      "size": 491
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-dbquote-font.css.min",
+      "size": 358
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-nonbase64-doublequotes.css",
+      "size": 1242
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-nonbase64-doublequotes.css.min",
+      "size": 1187
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-nonbase64-noquotes.css",
+      "size": 1229
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-nonbase64-noquotes.css.min",
+      "size": 1189
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-nonbase64-singlequotes.css",
+      "size": 1277
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-nonbase64-singlequotes.css.min",
+      "size": 1191
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-noquote-multiline-font.css",
+      "size": 514
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-noquote-multiline-font.css.min",
+      "size": 354
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-realdata-doublequotes.css",
+      "size": 2930
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-realdata-doublequotes.css.min",
+      "size": 2569
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-realdata-noquotes.css",
+      "size": 2928
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-realdata-noquotes.css.min",
+      "size": 2566
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-realdata-singlequotes.css",
+      "size": 2930
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-realdata-singlequotes.css.min",
+      "size": 2568
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-realdata-yuiapp.css",
+      "size": 2536
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-realdata-yuiapp.css.min",
+      "size": 2085
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-singlequote-font.css",
+      "size": 503
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dataurl-singlequote-font.css.min",
+      "size": 356
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/decimals.css",
+      "size": 54
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/decimals.css.min",
+      "size": 43
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dollar-header.css",
+      "size": 87
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/dollar-header.css.min",
+      "size": 79
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/font-face.css",
+      "size": 137
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/font-face.css.min",
+      "size": 109
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/ie5mac.css",
+      "size": 99
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/ie5mac.css.min",
+      "size": 31
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/media-empty-class.css",
+      "size": 258
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/media-empty-class.css.min",
+      "size": 113
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/media-multi.css",
+      "size": 130
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/media-multi.css.min",
+      "size": 120
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/media-test.css",
+      "size": 74
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/media-test.css.min",
+      "size": 67
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/opacity-filter.css",
+      "size": 694
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/opacity-filter.css.min",
+      "size": 156
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/background-position.out",
+      "size": 56
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/background-position.out.b",
+      "size": 56
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/border-none.out",
+      "size": 50
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/border-none.out.b",
+      "size": 50
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/box-model-hack.out",
+      "size": 100
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/box-model-hack.out.b",
+      "size": 100
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/bug2527974.out",
+      "size": 43
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/bug2527974.out.b",
+      "size": 141
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/bug2527991.out",
+      "size": 167
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/bug2527991.out.b",
+      "size": 199
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/bug2527998.out",
+      "size": 6
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/bug2527998.out.b",
+      "size": 20
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/bug2528034.out",
+      "size": 75
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/bug2528034.out.b",
+      "size": 75
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/charset-media.out",
+      "size": 62
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/charset-media.out.b",
+      "size": 62
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/color-simple.out",
+      "size": 180
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/color-simple.out.b",
+      "size": 180
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/color.out",
+      "size": 719
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/color.out.b",
+      "size": 719
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/comment.out",
+      "size": 27
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/comment.out.b",
+      "size": 27
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/concat-charset.out",
+      "size": 85
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/concat-charset.out.b",
+      "size": 85
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-base64-doublequotes.out",
+      "size": 84648
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-base64-doublequotes.out.b",
+      "size": 84648
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-base64-eof.out",
+      "size": 3835
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-base64-eof.out.b",
+      "size": 3835
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-base64-linebreakindata.out",
+      "size": 1890
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-base64-linebreakindata.out.b",
+      "size": 1890
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-base64-noquotes.out",
+      "size": 84642
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-base64-noquotes.out.b",
+      "size": 84642
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-base64-singlequotes.out",
+      "size": 84648
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-base64-singlequotes.out.b",
+      "size": 84648
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-base64-twourls.out",
+      "size": 4233
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-base64-twourls.out.b",
+      "size": 4233
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-dbquote-font.out",
+      "size": 358
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-dbquote-font.out.b",
+      "size": 358
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-nonbase64-doublequotes.out",
+      "size": 1189
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-nonbase64-doublequotes.out.b",
+      "size": 1189
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-nonbase64-noquotes.out",
+      "size": 1189
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-nonbase64-noquotes.out.b",
+      "size": 1189
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-nonbase64-singlequotes.out",
+      "size": 1192
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-nonbase64-singlequotes.out.b",
+      "size": 1192
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-noquote-multiline-font.out",
+      "size": 354
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-noquote-multiline-font.out.b",
+      "size": 354
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-realdata-doublequotes.out",
+      "size": 2569
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-realdata-doublequotes.out.b",
+      "size": 2569
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-realdata-noquotes.out",
+      "size": 2566
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-realdata-noquotes.out.b",
+      "size": 2566
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-realdata-singlequotes.out",
+      "size": 2568
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-realdata-singlequotes.out.b",
+      "size": 2568
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-realdata-yuiapp.out",
+      "size": 2085
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-realdata-yuiapp.out.b",
+      "size": 2085
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-singlequote-font.out",
+      "size": 356
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dataurl-singlequote-font.out.b",
+      "size": 356
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/decimals.out",
+      "size": 45
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/decimals.out.b",
+      "size": 45
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dollar-header.out",
+      "size": 12
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/dollar-header.out.b",
+      "size": 79
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/font-face.out",
+      "size": 109
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/font-face.out.b",
+      "size": 109
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/ie5mac.out",
+      "size": 31
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/ie5mac.out.b",
+      "size": 31
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/media-empty-class.out",
+      "size": 125
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/media-empty-class.out.b",
+      "size": 141
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/media-multi.out",
+      "size": 121
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/media-multi.out.b",
+      "size": 121
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/media-test.out",
+      "size": 68
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/media-test.out.b",
+      "size": 68
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/opacity-filter.out",
+      "size": 293
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/opacity-filter.out.b",
+      "size": 293
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/preserve-case.out",
+      "size": 171
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/preserve-case.out.b",
+      "size": 171
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/preserve-new-line.out",
+      "size": 65
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/preserve-new-line.out.b",
+      "size": 65
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/preserve-strings.out",
+      "size": 95
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/preserve-strings.out.b",
+      "size": 95
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/pseudo-first.out",
+      "size": 88
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/pseudo-first.out.b",
+      "size": 88
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/pseudo.out",
+      "size": 25
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/pseudo.out.b",
+      "size": 25
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/special-comments.out",
+      "size": 12
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/special-comments.out.b",
+      "size": 159
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/star-underscore-hacks.out",
+      "size": 44
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/star-underscore-hacks.out.b",
+      "size": 44
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/string-in-comment.out",
+      "size": 38
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/string-in-comment.out.b",
+      "size": 56
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/webkit-transform.out",
+      "size": 59
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/webkit-transform.out.b",
+      "size": 59
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/zeros.out",
+      "size": 89
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/out/zeros.out.b",
+      "size": 89
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/preserve-case.css",
+      "size": 219
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/preserve-case.css.min",
+      "size": 171
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/preserve-new-line.css",
+      "size": 80
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/preserve-new-line.css.min",
+      "size": 69
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/preserve-strings.css",
+      "size": 192
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/preserve-strings.css.min",
+      "size": 95
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/pseudo-first.css",
+      "size": 307
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/pseudo-first.css.min",
+      "size": 88
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/pseudo.css",
+      "size": 40
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/pseudo.css.min",
+      "size": 25
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/special-comments.css",
+      "size": 170
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/special-comments.css.min",
+      "size": 159
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/star-underscore-hacks.css",
+      "size": 59
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/star-underscore-hacks.css.min",
+      "size": 44
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/string-in-comment.css",
+      "size": 127
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/string-in-comment.css.min",
+      "size": 56
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/webkit-transform.css",
+      "size": 66
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/webkit-transform.css.min",
+      "size": 59
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/zeros.css",
+      "size": 109
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rcssmin/tests/yui/zeros.css.min",
+      "size": 60
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/LICENSE",
+      "size": 11357
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/MANIFEST",
+      "size": 1066
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/PKG-INFO",
+      "size": 15943
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/README.chromium",
+      "size": 765
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/README.rst",
+      "size": 4232
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/bench/DateTimeShortcuts.js",
+      "size": 18754
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/bench/__init__.py",
+      "size": 873
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/bench/apiviewer.js",
+      "size": 976057
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/bench/bootstrap.js",
+      "size": 50212
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/bench/jquery-1.7.1.js",
+      "size": 248235
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/bench/jsmin.c",
+      "size": 7537
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/bench/jsmin.py",
+      "size": 7862
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/bench/jsmin_2_0_9.py",
+      "size": 8203
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/bench/knockout-2.0.0.js",
+      "size": 39817
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/bench/main.py",
+      "size": 6715
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/bench/markermanager.js",
+      "size": 29300
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/bench/write.py",
+      "size": 10603
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/BENCHMARKS",
+      "size": 8380
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/CHANGES",
+      "size": 2616
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/CLASSIFIERS",
+      "size": 759
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/DESCRIPTION",
+      "size": 2705
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/PROVIDES",
+      "size": 13
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/SUMMARY",
+      "size": 20
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/apidoc/api-objects.txt",
+      "size": 316
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/apidoc/crarr.png",
+      "size": 340
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/apidoc/epydoc.css",
+      "size": 16023
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/apidoc/epydoc.js",
+      "size": 10581
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/apidoc/help.html",
+      "size": 10514
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/apidoc/identifier-index.html",
+      "size": 5288
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/apidoc/index.html",
+      "size": 9714
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/apidoc/module-tree.html",
+      "size": 3298
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/apidoc/redirect.html",
+      "size": 998
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/apidoc/rjsmin-module.html",
+      "size": 9714
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/docs/apidoc/rjsmin-pysrc.html",
+      "size": 109465
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/package.cfg",
+      "size": 1554
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/rjsmin.c",
+      "size": 17899
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/rjsmin.py",
+      "size": 20676,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_vulcanize/third_party/rjsmin/setup.py",
+      "size": 1181
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/PRESUBMIT.py",
+      "size": 1055
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/bin/run_tests",
+      "size": 800,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/bin/update",
+      "size": 1286,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/__init__.py",
+      "size": 1527
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/archive_info.py",
+      "size": 3236
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/base_config.py",
+      "size": 16974
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/base_config_unittest.py",
+      "size": 81060,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/cloud_storage_info.py",
+      "size": 4045
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/cloud_storage_info_unittest.py",
+      "size": 10516
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/dependency_info.py",
+      "size": 4638
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/dependency_info_unittest.py",
+      "size": 11213
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/dependency_manager_unittest.py",
+      "size": 22469
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/dependency_manager_util.py",
+      "size": 3920
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/dependency_manager_util_unittest.py",
+      "size": 7871
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/exceptions.py",
+      "size": 1695
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/local_path_info.py",
+      "size": 2383
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/local_path_info_unittest.py",
+      "size": 4799
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/manager.py",
+      "size": 10283
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/uploader.py",
+      "size": 4164
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/uploader_unittest.py",
+      "size": 4169
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/pylintrc",
+      "size": 1825
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/BUILD.gn",
+      "size": 567
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/PRESUBMIT.py",
+      "size": 2489
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/README.md",
+      "size": 1262
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/bin/generate_md_docs",
+      "size": 1317,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/bin/run_py_devicetests",
+      "size": 851,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/bin/run_py_tests",
+      "size": 567,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/__init__.py",
+      "size": 240
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/__init__.py",
+      "size": 162
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/apk_helper.py",
+      "size": 9415
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/apk_helper_test.py",
+      "size": 11468,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/app_ui.py",
+      "size": 8539
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/app_ui_test.py",
+      "size": 7134
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/battery_utils.py",
+      "size": 26468
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/battery_utils_test.py",
+      "size": 27534,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/constants/__init__.py",
+      "size": 162
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/constants/chrome.py",
+      "size": 1790
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/constants/file_system.py",
+      "size": 203
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/constants/webapk.py",
+      "size": 232
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/crash_handler.py",
+      "size": 1297
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/crash_handler_devicetest.py",
+      "size": 2296,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/decorators.py",
+      "size": 6131
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/decorators_test.py",
+      "size": 13296
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_blacklist.py",
+      "size": 2249
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_blacklist_test.py",
+      "size": 1051
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_errors.py",
+      "size": 6583
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_errors_test.py",
+      "size": 2405,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_list.py",
+      "size": 1677
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_signal.py",
+      "size": 1234
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_temp_file.py",
+      "size": 3917
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_test_case.py",
+      "size": 1419
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_utils.py",
+      "size": 115113
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_utils_devicetest.py",
+      "size": 11080,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_utils_test.py",
+      "size": 134392,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/fastboot_utils.py",
+      "size": 9287
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/fastboot_utils_test.py",
+      "size": 13966,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/flag_changer.py",
+      "size": 10455
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/flag_changer_devicetest.py",
+      "size": 2887
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/flag_changer_test.py",
+      "size": 5104,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/forwarder.py",
+      "size": 17651
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/install_commands.py",
+      "size": 1858
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/logcat_monitor.py",
+      "size": 9128
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/logcat_monitor_test.py",
+      "size": 8737,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/md5sum.py",
+      "size": 4289
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/md5sum_test.py",
+      "size": 10335,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/perf/__init__.py",
+      "size": 162
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/perf/cache_control.py",
+      "size": 537
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/perf/perf_control.py",
+      "size": 12254
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/perf/perf_control_devicetest.py",
+      "size": 1109
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/perf/perf_control_test.py",
+      "size": 4482
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/perf/surface_stats_collector.py",
+      "size": 6923
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/perf/thermal_throttle.py",
+      "size": 4432
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/ports.py",
+      "size": 6274
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/__init__.py",
+      "size": 273
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/aapt.py",
+      "size": 1199
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/adb_compatibility_devicetest.py",
+      "size": 7561
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/adb_wrapper.py",
+      "size": 34323
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/adb_wrapper_devicetest.py",
+      "size": 3833,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/adb_wrapper_test.py",
+      "size": 2515,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/build_tools.py",
+      "size": 1330
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/dexdump.py",
+      "size": 899
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/fastboot.py",
+      "size": 3817
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/gce_adb_wrapper.py",
+      "size": 5042
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/intent.py",
+      "size": 3825
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/keyevent.py",
+      "size": 990
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/shared_prefs.py",
+      "size": 13996
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/shared_prefs_test.py",
+      "size": 7910,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/split_select.py",
+      "size": 1940
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/test/data/push_directory/push_directory_contents.txt",
+      "size": 17
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/test/data/push_file.txt",
+      "size": 14
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/version_codes.py",
+      "size": 470
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/settings.py",
+      "size": 9178
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/__init__.py",
+      "size": 162
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/adb_run_shell_cmd.py",
+      "size": 1669,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/cpufreq.py",
+      "size": 2280,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/device_monitor.py",
+      "size": 6826,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/device_monitor_test.py",
+      "size": 6478,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/device_recovery.py",
+      "size": 7790,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/device_status.py",
+      "size": 10237,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/flash_device.py",
+      "size": 2219,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/keyboard.py",
+      "size": 3295,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/provision_devices.py",
+      "size": 24958,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/screenshot.py",
+      "size": 1644,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/script_common.py",
+      "size": 2014
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/script_common_test.py",
+      "size": 3012,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/system_app.py",
+      "size": 6767,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/system_app_devicetest.py",
+      "size": 3405,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/system_app_test.py",
+      "size": 2327
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/unlock_bootloader.py",
+      "size": 5062
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/video_recorder.py",
+      "size": 6000,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/wait_for_devices.py",
+      "size": 1440,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/valgrind_tools/__init__.py",
+      "size": 674
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/valgrind_tools/base_tool.py",
+      "size": 1298
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/base_error.py",
+      "size": 721
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/constants/__init__.py",
+      "size": 162
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/constants/exit_codes.py",
+      "size": 241
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/devil_dependencies.json",
+      "size": 5120
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/devil_env.py",
+      "size": 5987
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/devil_env_test.py",
+      "size": 1978,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/cmd_helper.py",
+      "size": 16069
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/cmd_helper_test.py",
+      "size": 9514,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/file_utils.py",
+      "size": 907
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/find_usb_devices.py",
+      "size": 16726,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/find_usb_devices_test.py",
+      "size": 9537,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/geometry.py",
+      "size": 2402
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/geometry_test.py",
+      "size": 1703
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/host_utils.py",
+      "size": 719
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/lazy/__init__.py",
+      "size": 219
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/lazy/weak_constant.py",
+      "size": 1395
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/lazy/weak_constant_test.py",
+      "size": 2081
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/logging_common.py",
+      "size": 1511
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/lsusb.py",
+      "size": 5253
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/lsusb_test.py",
+      "size": 9687,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/markdown.py",
+      "size": 8393,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/markdown_test.py",
+      "size": 3426,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/mock_calls.py",
+      "size": 6593
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/mock_calls_test.py",
+      "size": 5597,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/parallelizer.py",
+      "size": 7641
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/parallelizer_test.py",
+      "size": 5766
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/reraiser_thread.py",
+      "size": 7583
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/reraiser_thread_unittest.py",
+      "size": 2811
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/reset_usb.py",
+      "size": 3238,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/run_tests_helper.py",
+      "size": 805
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/signal_handler.py",
+      "size": 1299
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/timeout_retry.py",
+      "size": 5892
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/timeout_retry_unittest.py",
+      "size": 2010,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/usb_hubs.py",
+      "size": 6200
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/watchdog_timer.py",
+      "size": 1273
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/zip_utils.py",
+      "size": 3340
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/zip_utils_test.py",
+      "size": 1115
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/docs/adb_wrapper.md",
+      "size": 10126
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/docs/device_blacklist.md",
+      "size": 2280
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/docs/device_utils.md",
+      "size": 30951
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/docs/markdown.md",
+      "size": 2704
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/docs/persistent_device_list.md",
+      "size": 1160
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/pylintrc",
+      "size": 1846
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/PRESUBMIT.py",
+      "size": 1151
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/README.md",
+      "size": 376
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/README.md",
+      "size": 1336
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/Application.mk",
+      "size": 235
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/atrace_process_dump.cc",
+      "size": 8324
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/atrace_process_dump.h",
+      "size": 2394
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/file_utils.cc",
+      "size": 2901
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/file_utils.h",
+      "size": 2012
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/libmemtrack_wrapper.cc",
+      "size": 4124
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/libmemtrack_wrapper.h",
+      "size": 1069
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/logging.h",
+      "size": 1324
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/main.cc",
+      "size": 3455
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/process_info.h",
+      "size": 821
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/process_memory_stats.cc",
+      "size": 4750
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/process_memory_stats.h",
+      "size": 2897
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/procfs_utils.cc",
+      "size": 3960
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/procfs_utils.h",
+      "size": 827
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/time_utils.cc",
+      "size": 1444
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/time_utils.h",
+      "size": 701
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/bin/adb_profile_chrome",
+      "size": 407,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/bin/adb_profile_chrome_startup",
+      "size": 4280,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/bin/run_tests",
+      "size": 1338,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/bin/systrace",
+      "size": 430,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/__init__.py",
+      "size": 454
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/chrome_startup_tracing_agent.py",
+      "size": 5933
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/chrome_startup_tracing_agent_unittest.py",
+      "size": 1066
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/chrome_tracing_agent.py",
+      "size": 9089
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/chrome_tracing_agent_unittest.py",
+      "size": 2001
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/ddms_tracing_agent.py",
+      "size": 3054
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/ddms_tracing_agent_unittest.py",
+      "size": 861
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/fake_agent_1.py",
+      "size": 1814
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/fake_agent_2.py",
+      "size": 1807
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/flags.py",
+      "size": 701
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/main.py",
+      "size": 6074,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/perf_tracing_agent.py",
+      "size": 9406
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/perf_tracing_agent_unittest.py",
+      "size": 1281
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/profiler.py",
+      "size": 3980
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/profiler_unittest.py",
+      "size": 1809
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/run_tests",
+      "size": 98,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/third_party/COPYING",
+      "size": 18092
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/third_party/README.chromium",
+      "size": 293
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/third_party/perf_to_tracing.py",
+      "size": 6779
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/ui.py",
+      "size": 624
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/util.py",
+      "size": 1075
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/pylintrc",
+      "size": 1807
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/AUTHORS",
+      "size": 292
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/LICENSE",
+      "size": 1563
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/README.md",
+      "size": 715
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/__init__.py",
+      "size": 1039
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/decorators.py",
+      "size": 1238
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/monitor_unittest.py",
+      "size": 1701
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/output_generator.py",
+      "size": 6936
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/output_generator_unittest.py",
+      "size": 4887
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/prefix.html",
+      "size": 1779
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/run_systrace.py",
+      "size": 7214,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/suffix.html",
+      "size": 16
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/systrace_runner.py",
+      "size": 2691
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/systrace_trace_viewer.html",
+      "size": 2530425
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_data",
+      "size": 17999
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_data_raw",
+      "size": 18282
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_data_stripped",
+      "size": 18281
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_extracted_tgids",
+      "size": 17417
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_extracted_threads",
+      "size": 111
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_fixed_tgids",
+      "size": 19137
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_missing_tgids",
+      "size": 19529
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_procfs_dump",
+      "size": 23205
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/compressed_atrace_data.txt",
+      "size": 562
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/decompressed_atrace_data.txt",
+      "size": 98550
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/profile-chrome_systrace_perf_chrome_data",
+      "size": 47813
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/trace_result.py",
+      "size": 470
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/__init__.py",
+      "size": 2671
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/agents_unittest.py",
+      "size": 1479
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/android_process_data_agent.py",
+      "size": 3385
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/atrace_agent.py",
+      "size": 16030
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/atrace_agent_unittest.py",
+      "size": 4674,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/atrace_from_file_agent.py",
+      "size": 5095
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/atrace_from_file_agent_unittest.py",
+      "size": 3161,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/atrace_process_dump.py",
+      "size": 5195
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/ftrace_agent.py",
+      "size": 8038
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/ftrace_agent_unittest.py",
+      "size": 4734,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/walt_agent.py",
+      "size": 4178
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/walt_agent_unittest.py",
+      "size": 1996
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_controller.py",
+      "size": 11098
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/update_systrace_trace_viewer.py",
+      "size": 4537,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/util.py",
+      "size": 6166
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/LICENSE.txt",
+      "size": 2850
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/README.chromium",
+      "size": 630
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/linux-product_info.patch",
+      "size": 734
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/__init__.py",
+      "size": 2796,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/rfc2217.py",
+      "size": 59056
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/serialcli.py",
+      "size": 10038
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/serialjava.py",
+      "size": 9284
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/serialposix.py",
+      "size": 26585,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/serialutil.py",
+      "size": 20191
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/serialwin32.py",
+      "size": 18260
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/sermsdos.py",
+      "size": 5848
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/list_ports.py",
+      "size": 3221,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/list_ports_linux.py",
+      "size": 5399,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/list_ports_osx.py",
+      "size": 6489,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/list_ports_posix.py",
+      "size": 3264,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/list_ports_windows.py",
+      "size": 8653
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/miniterm.py",
+      "size": 27451,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/urlhandler/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/urlhandler/protocol_hwgrep.py",
+      "size": 1526
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/urlhandler/protocol_loop.py",
+      "size": 9516
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/urlhandler/protocol_rfc2217.py",
+      "size": 307
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/urlhandler/protocol_socket.py",
+      "size": 10154
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/win32.py",
+      "size": 10120
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/zipfile/LICENSE",
+      "size": 12767
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/zipfile/README.chromium",
+      "size": 574
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/zipfile/zipfile_2_7_13.py",
+      "size": 59027
+    },
+    {
+      "name": "platform-tools/systrace/catapult/tracing/tracing/__init__.py",
+      "size": 230
+    },
+    {
+      "name": "platform-tools/systrace/catapult/tracing/tracing/trace_data/__init__.py",
+      "size": 163
+    },
+    {
+      "name": "platform-tools/systrace/catapult/tracing/tracing/trace_data/trace_data.py",
+      "size": 11465
+    },
+    {
+      "name": "platform-tools/systrace/catapult/tracing/tracing/trace_data/trace_data_unittest.py",
+      "size": 3220
+    },
+    {
+      "name": "platform-tools/systrace/catapult/tracing/tracing_project.py",
+      "size": 7144
+    },
+    {
+      "name": "platform-tools/systrace/systrace.py",
+      "size": 1456,
+      "executable": true
+    }
+  ]
+}
